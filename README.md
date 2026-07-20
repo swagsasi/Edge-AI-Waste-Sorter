@@ -1,6 +1,6 @@
 # Edge AI Waste Sorter (Android + ESP32 + BLE)
 
-[![Demo Video](https://img.shields.io/badge/YouTube-Watch_Video-red)](https://www.youtube.com/watch?v=dWPl3rfXH1A)
+[![YouTube Video Demo](https://img.shields.io/badge/YouTube-Watch_Video_Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=dWPl3rfXH1A)
 [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)]()
 [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
